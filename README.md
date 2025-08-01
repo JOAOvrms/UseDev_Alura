@@ -1,6 +1,3 @@
-
-![CSS Grid](https://imgur.com/KfurviO.png)
-
 # CSS Grid
 
 Página inicial da loja UseDev.
